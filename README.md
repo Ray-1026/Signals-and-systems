@@ -1,4 +1,4 @@
-# NYCU-signal-and-systems
+# NYCU-signals-and-systems
 
 Instructor : 鄭耿璽
 
