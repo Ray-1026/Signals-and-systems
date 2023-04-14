@@ -7,6 +7,10 @@ Semester : 2023 Spring
 ## HW1
 - Fundamental
 
-## Hw2
+## HW2
 - LTI system
 - Convolution
+
+## HW3
+- Fourier Series
+- Fourier Transform
