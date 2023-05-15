@@ -14,3 +14,6 @@ Semester : 2023 Spring
 ## HW3
 - Fourier Series
 - Fourier Transform
+
+## HW4
+- Fourier Application
