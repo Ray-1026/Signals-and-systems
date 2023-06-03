@@ -17,3 +17,10 @@ Semester : 2023 Spring
 
 ## HW4
 - Fourier Application
+
+## HW5
+- Laplace Transform
+- Bode Diagram
+
+## HW6
+- z-Transform
